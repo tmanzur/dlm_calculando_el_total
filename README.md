@@ -11,7 +11,7 @@ ___
 
 ## Vista previa 👀
 ___
-🔧 *Demo pendiente de publicar en GitHub Pages.*
+🔧 https://tmanzur.github.io/dlm_calculando_el_total/
 ___
 
 ## Tecnologías utilizadas 👩🏻‍💻
